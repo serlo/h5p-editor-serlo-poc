@@ -39,7 +39,7 @@ H5PEditor.widgets.serloPoC = H5PEditor.SerloPoC = (function ($) {
 
     render(
       <App update={update} value={self.params} />,
-      document.getElementById(this.id)
+      document.getElementById(id)
     );
   };
   /**
