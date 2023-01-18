@@ -1,0 +1,21 @@
+{
+  "title": "Serlo Editor PoC",
+  "description": "Proof of Concept for Serlo Integration",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 2,
+  "runnable": 1,
+  "author": "Serlo",
+  "license": "cc-by-sa",
+  "machineName": "H5PEditor.SerloPoC",
+  "preloadedJs": [
+    {
+      "path": "dist/bundle.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "css/serlo.css"
+    }
+  ]
+}
